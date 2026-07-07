@@ -1,0 +1,43 @@
+Hi, I am new to blogging and I need you to be my mentor and guide me all the way. 
+
+ I need you to help me build a beautiful and entertaining blogging website call GistCorner. 
+
+ The website should be built totally with html and css only.
+
+ The website should have 6 pages including the home page, Latest Page, Entertainment page,News page, Politics page and Sports Page.
+
+The blogging website should look like Gistreel blogging website.
+
+ On the home page,on the header, create a logo with the name GistCorner  and place it on the top left corner of the page. Create Navigations items for the other pages and place it on the header section. The navigation items for the other pages on the header pages should be imbedded with hyperlinks to connect to each of the pages. There should be a search button on the header at the top right corner. 
+
+ The navigations items on the header section should be neatly and well positioned. 
+
+ The header section should be sticky.
+
+ The home page should be filled with  latest and entertaining news. It should have at least 10 latest news headlines. 
+
+ The footer section should have navigation items for about us, contact us,GistCorner Team,Privacy Policy.
+
+ The whole page should be colorful and entertaining. Use the best ui/ux features on the page.
+
+ Go ahead and build  all the other pages. The other pages should have the same header and footer like the home page. 
+
+ The latest pages page should be filled with at least 10 latest news headlines and images. The images should be accurate for the news headline it is attached to. 
+
+ The Entertainment page should be filed with all the latest entertainment news and let it be very colorful. It should have at least 10 entertainment news headlines. 
+
+ The News page should be filled with the latest Nigeria and global news headlines. It should have at least 10 news headlines. 
+
+ The Politics page should be filled with the latest Nigeria and global politics news headlines. It should have at least 10 news headlines. 
+
+ The Sport page should be filled with the latest World sporting news including updates from the 2026 World Cup and latest football transfer news. 
+
+ Let the whole website be very entertaining and colorful. 
+
+ Make good use of padding  and margins to space out the items on the website.
+
+ Let the website be fully responsive on all screen. 
+
+ Each of the pages should have at least 10 cards with news headlines.
+
+ All the news headlines should have images attached to it, and the images should be very accurate with the news it is representing.
